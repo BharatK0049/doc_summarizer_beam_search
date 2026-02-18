@@ -1,0 +1,7 @@
+nltk
+tqdm
+numpy
+scikit-learn
+datasets
+pandas
+rouge-score
